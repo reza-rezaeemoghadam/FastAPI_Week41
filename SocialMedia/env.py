@@ -1,0 +1,6 @@
+
+SQL_DATABASE='socialdb'
+SQL_PASSWORD='1380ACreZA46'
+SQL_PORT='5648'
+SQL_USER='postgres'
+
